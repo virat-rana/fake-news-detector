@@ -1,0 +1,14 @@
+# Virtual envs
+.venv/
+venv/
+
+# Python artifacts
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Optional: hide local secret keys
+*.env
+kaggle.json

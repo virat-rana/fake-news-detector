@@ -1,0 +1,7 @@
+{
+  "model": "LogisticRegression",
+  "vectorizer": "TfidfVectorizer",
+  "features": "title+text cleaned",
+  "n_train": 35918,
+  "n_test": 8980
+}
